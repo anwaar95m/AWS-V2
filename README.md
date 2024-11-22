@@ -1,4 +1,4 @@
-# AWS for Frontend Engineers
+# AWS for Frontend Engineers - V2
 
 - [00 - Introduction](content/00%20-%20Introduction.md)
 - [01 - The AWS Free Tier](content/01%20-%20The%20AWS%20Free%20Tier.md)
